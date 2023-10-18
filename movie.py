@@ -2,7 +2,6 @@
 #Ask first friend the movies they like. Save it in a list
 #Ask another friend the same question. If the movie is in the first friend's list, 
 #Print "You both like "name of the movie"
-#Continue until they is atleast 3 movies they both like
 
 
 movies=[]
